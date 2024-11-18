@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Doctor\'s Appointment</string>
+    <string name="consult_only_with_a_ndoctor_you_trust">Consult only with a\n<font color='#1FC29D'>Doctor you trust</font></string>
+    <string name="we_can_help_you_to_find_available_ndoctor_appointment_near_you">We can help you to find available\ndoctor appointment near you</string>
+</resources>
